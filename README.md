@@ -2,4 +2,4 @@
 
 ## Current projects
 
-![Current project](https://github-readme-stats.vercel.app/api/pin/?username=Le1nad&repo=Simple-Clicker&theme=transparent)
+Minicraft Remixed (view soom in [Intofire Studios](https://github.com/Intofire-Studios))
