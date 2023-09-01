@@ -2,4 +2,4 @@
 
 ## Current projects
 
-Minicraft Remixed (view soom in [Intofire Studios](https://github.com/Intofire-Studios))
+Minicraft Remixed (view soon in [Intofire Studios](https://github.com/Intofire-Studios))
