@@ -2,6 +2,4 @@
 
 ## Current projects
 
-Minicraft Remixed (view soon in [Intofire Studios](https://github.com/Intofire-Studios))
-
-Steam Emoticons Inventory Viewer (Coming soon)
+![Le1nad Shelter](https://le1nad3813.neocities.org/)
